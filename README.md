@@ -1,6 +1,7 @@
 # 💰 MoneyMgr — Personal Finance Tracker
 
 > A powerful, offline-first personal finance PWA built with pure HTML, CSS & JavaScript. No frameworks. No backend. No internet required.
+> 
 > Note : This webapp work on local memory(on your computer/moblie memory)
 
 ---
